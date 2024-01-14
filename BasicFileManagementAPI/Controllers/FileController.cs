@@ -26,7 +26,7 @@ namespace ProiectFinalAPI.Controllers
             _connection.Execute("Insert_Document", parameters, commandType: CommandType.StoredProcedure);
             _connection.Close();
 
-            return Ok(new { Message = "Document inserted successfully!" });
+            return Ok(new { Message = "Document inserted successfully!..." });
         }
         [Route("InsertFile")]
         [HttpPost]
