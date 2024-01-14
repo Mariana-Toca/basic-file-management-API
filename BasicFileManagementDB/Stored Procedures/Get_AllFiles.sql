@@ -1,0 +1,6 @@
+﻿CREATE PROCEDURE [dbo].[Get_AllFiles]
+
+AS
+	SELECT * FROM File_TB
+
+RETURN 0

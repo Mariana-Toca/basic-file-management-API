@@ -1,0 +1,10 @@
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\bin\Debug\BasicFileManagementDB.dacpac
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\bin\Debug\ProiectFinalDB.dll
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\bin\Debug\ProiectFinalDB.pdb
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\BasicFileManagementDB.sqlproj.AssemblyReference.cache
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\Model.xml
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\refactor.xml
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\postdeploy.sql
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\predeploy.sql
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\ProiectFinalDB.dll
+C:\Users\mtoca\Desktop\PROGRAMARE K DIGITAL\Mariana Toca - ProiectFinal\BasicFileManagementDB\obj\Debug\ProiectFinalDB.pdb

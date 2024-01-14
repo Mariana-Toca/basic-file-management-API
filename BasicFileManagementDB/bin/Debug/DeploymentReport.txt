@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DocumentType_TB] (Table)
+       [dbo].[File_TB] (Table)
+       [dbo].[FK_File_TB_DocumentType_TB] (Foreign Key)
+       [dbo].[Get_AllFiles] (Procedure)
+       [dbo].[Get_FileByDocumentType] (Procedure)
+       [dbo].[Insert_Document] (Procedure)
+       [dbo].[Insert_File] (Procedure)
+
+** Supporting actions
